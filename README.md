@@ -1,2 +1,2 @@
-# fa-google-2fa
-Frontaccounting with Google 2FA
+# Frontaccounting with Google Two Factor Authentication
+
