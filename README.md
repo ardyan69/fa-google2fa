@@ -7,4 +7,4 @@ see [Discussion](https://frontaccounting.com/punbb/viewtopic.php?id=9510)
 
 
 # Requirements
-[FrontAccounting 2.4.x](http://frontaccounting.com/)
+[Frontaccounting 2.4.x](http://frontaccounting.com/)
